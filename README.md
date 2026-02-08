@@ -1,23 +1,23 @@
 # Hi there 👋
 
-I’m a **cloud-focused systems administrator** building practical experience in **AWS, cloud security, and automation**. I focus on learning by doing — combining **hands-on projects** with **industry certifications** to develop real-world skills in secure cloud environments and emerging cloud AI services.
+I’m a **cloud-focused systems administrator** building practical experience in **AWS, cloud security, and automation**. I focus on learning by doing, combining **hands-on projects** with **industry certifications** to develop real-world skills in secure cloud environments and emerging cloud AI services.
 
 My long-term goal is to work in **cloud security engineering and architecture**, designing **secure-by-design infrastructure** and automated security solutions.
 
 ---
 
 ## About Me
-- Future **Cybersecurity Student** — Western Governors University  
-- Future **Air Force Cyber Defense Specialist**
+- Future **Cybersecurity Student** — Western Governors University 🎓 
+- Future **Air Force Cyber Defense Specialist** 🪖
 
 ---
 
 ## Current Focus Areas
 - AWS Cloud Fundamentals
+- Azure Cloud Fundamentals
 - Identity and Access Management (IAM)
 - Secure Cloud Configuration & Least Privilege
 - Cloud Monitoring and Logging
-- Introductory Cloud AI Concepts (AWS AI Practitioner)
 
 ---
 
@@ -29,9 +29,7 @@ My long-term goal is to work in **cloud security engineering and architecture**,
 ---
 
 ## Featured Projects
-| Project | Description | Tools |
-|--------|-------------|-------|
-| Coming Soon | Hands-on cloud security and automation labs in progress | AWS, Python |
+- 
 
 ---
 
