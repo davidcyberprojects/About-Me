@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m a **cloud-focused systems administrator** building practical experience in **AWS, cloud security, and automation**. I focus on learning by doing, combining **hands-on projects** with **industry certifications** to develop real-world skills in secure cloud environments and emerging cloud AI services.
+I’m a **cloud-focused systems administrator** building practical experience in **AWS, Azure, cloud security, and automation**. I focus on learning by doing, combining **hands-on projects** with **industry certifications** to develop real-world skills in secure cloud environments and emerging cloud AI services.
 
 My long-term goal is to work in **cloud security engineering and architecture**, designing **secure-by-design infrastructure** and automated security solutions.
 
@@ -23,19 +23,20 @@ My long-term goal is to work in **cloud security engineering and architecture**,
 
 ## Tools & Technologies 🧰
 - **AWS:** EC2, S3, IAM, VPC *(Foundational)*
+- **Azure** VMs, Entra ID, VNet *(Foundational)*
 - **Python:** Scripting and automation *(learning)*
 - **Linux:** System fundamentals
 
 ---
 
 ## Featured Projects 📌
-- 
+- **[Secure AWS Environment](https://github.com/davidcyberprojects/secure-aws-environment)** - Production-grade infrastructure with VPC endpoints, Session Manager, and CloudWatch monitoring
 
 ---
 
 ## Certifications & Learning Path ✏️
 - AWS Certified Cloud Practitioner ✔️
-- Azure AZ-900 *(In Progress)*
+- Azure AZ-900 ✔️
 - CompTIA Security+ *(Planned)*
 - B.S. Cybersecurity — WGU *(Planned)*
 - Air Force Cyber Defense Training *(Planned)*
