@@ -31,6 +31,7 @@ My long-term goal is to work in **cloud security engineering and architecture**,
 
 ## Featured Projects 📌
 - **[Secure AWS Environment](https://github.com/davidcyberprojects/secure-aws-environment)** - Production-grade infrastructure with VPC endpoints, Session Manager, and CloudWatch monitoring
+- **[Static Website AWS](https://github.com/davidcyberprojects/static-website-s3-cloudfront)** - A secure, scalable static portfolio website deployed on AWS infrastructure with global content delivery, custom domain, and SSL/TLS encryption.
 
 ---
 
@@ -55,6 +56,7 @@ Building toward **cloud security engineering** and **cloud architecture** roles 
 ## Connect With Me 🌐
 - LinkedIn: https://www.linkedin.com/in/david-devlin-897057368/
 - GitHub: https://github.com/davidcyberprojects
+- Personal Website: https://daviddevlin.org
 
 ---
 
