@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m a **cloud-focused systems administrator** building practical experience in **AWS, Azure, cloud security, and automation**. I focus on learning by doing, combining **hands-on projects** with **industry certifications** to develop real-world skills in secure cloud environments and emerging cloud AI services.
+I’m a **cloud-focused systems administrator** building practical experience in **AWS, Azure, cloud security, and automation**. I currently hold a **DoD TS/SCI clearance** while working **active duty for the U.S. Air Force as a System Administrator.** I focus on learning by doing, combining **hands-on projects** with **industry certifications** and experience in **enterprise architecture operations** to develop real-world skills in secure cloud environments and emerging cloud AI services.
 
 My long-term goal is to work in **cloud security engineering and architecture**, designing **secure-by-design infrastructure** and automated security solutions.
 
@@ -8,13 +8,13 @@ My long-term goal is to work in **cloud security engineering and architecture**,
 
 ## About Me
 - Future **Cybersecurity Student** — Western Governors University 🎓 
-- Future **Air Force Cyber Defense Specialist** 🪖
+- **Air Force Cyber Defense Specialist** 🪖
 
 ---
 
 ## Current Focus Areas 🧠
-- AWS Cloud Fundamentals
-- Azure Cloud Fundamentals
+- Enterprise Architectures 
+- AWS Infrastructure 
 - Identity and Access Management *(IAM)*
 - Secure Cloud Configuration & Least Privilege
 - Cloud Monitoring and Logging
@@ -40,7 +40,7 @@ My long-term goal is to work in **cloud security engineering and architecture**,
 - Azure AZ-900 ✔️
 - CompTIA Security+ *(Planned)*
 - B.S. Cybersecurity — WGU *(Planned)*
-- Air Force Cyber Defense Training *(Planned)*
+- Air Force Cyber Defense Training *(In Progress)*
 
 ---
 
@@ -48,7 +48,7 @@ My long-term goal is to work in **cloud security engineering and architecture**,
 Building toward **cloud security engineering** and **cloud architecture** roles through:
 - Hands-on cloud projects
 - Progressive certifications
-- Operational IT experience
+- Operational enterprise architecture experience
 - Security-focused automation
 
 ---
